@@ -1,0 +1,10 @@
+num1_as_string = input("Enter the first number: ")
+num1 = int(num1_as_string)
+num2_as_string = input("Enter the second number: ")
+num2 = int(num2_as_string)
+
+print("Sum ", num1 + num2)
+print("Difference ", num1-num2)
+print("Product ", num1*num2)
+print("Quotient ", num1/num2)
+print("Quotient round off ", num1//num2)
